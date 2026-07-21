@@ -1,9 +1,44 @@
-- 👋 Hi, I’m @Bukason520
-- 👀 I’m interested in Fullstack development...
-- 🌱 I’m currently learning Frontend development...
-- 💞️ I’m looking to collaborate on Fullstack development...
+# Hi, I'm Chukwuebuka 👋
 
-<!---
-Bukason520/Bukason520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring AI Evaluation and Data Annotation professional with a background in web research, frontend development, and technical market analysis.
+
+## Skills
+
+- AI Model Evaluation
+- Data Annotation
+- Search Quality Evaluation
+- Web Research
+- Internet Research
+- Prompt Evaluation
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+- Google Workspace
+- Microsoft Office
+
+## Currently Learning
+
+- Artificial Intelligence Evaluation
+- Prompt Engineering
+- Frontend Development
+- JavaScript
+
+## Certifications
+
+- Frontend Development – AltSchool Africa
+- Crane Operator Certificate
+- Forklift Operator Certificate
+
+## Contact
+
+📧 onyebuchi.ebuka.7@gmail.com
+
+Thanks for visiting my profile!
